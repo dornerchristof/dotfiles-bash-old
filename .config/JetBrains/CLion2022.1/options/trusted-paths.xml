@@ -1,0 +1,13 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/untitled1" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/untitled2" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/untitled3" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/untitled4" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

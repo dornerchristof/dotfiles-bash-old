@@ -1,0 +1,74 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.c" projectWorkspaceId="2Bd7Z1AWxSVz1yIzOesUAA4ACU3">
+              <option name="activationTimestamp" value="1657224585304" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-221.5921.27" />
+              <option name="buildTimestamp" value="1655845393134" />
+              <frame x="2" y="52" width="636" height="1146" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1657224160505" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled1 – main.c" projectWorkspaceId="2Bd8QUuhrDsUF0l0PDpV6uszKvo">
+              <option name="activationTimestamp" value="1657224620828" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-221.5921.27" />
+              <option name="buildTimestamp" value="1655845393134" />
+              <frame x="2" y="52" width="636" height="1146" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1657224585908" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled2 – main.cpp" projectWorkspaceId="2Bd8V7SHd4IS89UZe8B2uQIvUum">
+              <option name="activationTimestamp" value="1657224656966" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-221.5921.27" />
+              <option name="buildTimestamp" value="1655845393134" />
+              <frame x="2" y="52" width="636" height="1146" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1657224621668" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled3 – main.cpp" projectWorkspaceId="2Bd8Zj8BAVKspFxRb8JPxVlqdYm">
+              <option name="activationTimestamp" value="1657224733389" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-221.5921.27" />
+              <option name="buildTimestamp" value="1655845393134" />
+              <frame x="2" y="52" width="636" height="1146" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1657224658062" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled4">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled4 – main.cpp" opened="true" projectWorkspaceId="2Bd8j7SeiMDTC6J6GPCsbUvkVsT">
+              <option name="activationTimestamp" value="1657225045927" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-221.5921.27" />
+              <option name="buildTimestamp" value="1655845393134" />
+              <frame x="2" y="52" width="636" height="1146" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1657224733896" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>
