@@ -211,7 +211,7 @@ for_window [class="MineTime"] move scratchpad
 bar swaybar_command waybar
 
 # Executing NetworkManager applet
-exec_always 'nm_applet --indicator'
+exec_always 'nm-applet --indicator'
 
 # Executing blueman bluetooth manager
 exec_always 'blueman-applet'
